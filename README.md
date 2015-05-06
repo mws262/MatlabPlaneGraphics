@@ -1,4 +1,4 @@
-This series of examples walks you through the steps to create a 3D plane animation.
+This series of examples walks you through the steps to create a 3D plane animation. Originally created for use in Andy Ruina's flight dynamics course.
 
 For the final result, see: "4 Getting fancy> 3 All together > FinalEx.m"
 
