@@ -1,4 +1,6 @@
-This series of examples walks you through the steps to create a 3D plane animation. Originally created for use in Andy Ruina's flight dynamics course.
+This series of examples walks you through the steps to create a 3D plane animation. 
+
+DEMO Video: https://www.youtube.com/watch?v=xHjyinJnIF8
 
 For the final result, see: "4 Getting fancy> 3 All together > FinalEx.m"
 
@@ -15,8 +17,9 @@ Folders:
 	- Adding a horizon to help user keep his bearings
 	- Final example incorporating 1,2,3,4
 
-for questions, please email mws262@cornell.edu or come to Upson 247 (preferred) and talk to Matt Sheen.
+Credit to Eric Johnson for his great STLREAD function on the file exchange: https://www.mathworks.com/matlabcentral/fileexchange/22409-stl-file-reader
 
+Originally created for use in Andy Ruina's flight dynamics course @ Cornell University.
 
 **** NOTE: I use the "fig.Properties = 'something'" way of changing things. This works on MATLAB 2014b+. If you are using an older version, you will need to use something like set(fig,'Properties','something')
 To my knowledge, all other parts are compatible with previous versions.
